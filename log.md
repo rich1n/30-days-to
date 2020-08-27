@@ -12,11 +12,12 @@
 **Links**
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [SoloLearn](https://www.sololearn.com/)
+3. [Edabit](https://edabit.com/challenges)
 
 [GitHub](https://github.com/rich1n/100-days-rich1n)
 
 
-### Dia 1: Agosto 11, Martes
+### Dia 1: Agosto 27, Jueves
 
 **Progreso del Día**: I've gone through many exercises on FreeCodeCamp.
 

@@ -17,7 +17,7 @@
 [GitHub](https://github.com/rich1n/100-days-rich1n)
 
 
-### Dia 1: Agosto 27, Jueves
+### Dia 1: Agosto 28, Viernes
 
 **Progreso del Día**: I've gone through many exercises on FreeCodeCamp.
 

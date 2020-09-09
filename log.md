@@ -17,8 +17,8 @@
 [GitHub](https://github.com/rich1n/100-days-rich1n)
 
 
-### Dia 1: Agosto 28, Viernes
+### Dia 1: Septiembre 8, Martes
 
-**Progreso del Día**: I've gone through many exercises on FreeCodeCamp.
+**Progreso del Día**: I've gone through many classes on W3Schools + SoloLearn
 
 **Ideas**: 

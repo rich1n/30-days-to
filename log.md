@@ -1,20 +1,20 @@
 # Reto 100 Days Of Code - Log - Richard Rodrigues
 
-### Día 0: Agosto 10, 2020 (inicio)
 ##### Comencemos
 
-**Proposito Principal**: Estudiar JavaScript y Ccoud Computing
+**Proposito Principal**: Front-End + Cloud Practitioner AWS
 
-**Meta Final**: 1) Tener conocimientos de JavaScript (Intermedio); 2) Crear una aplicación web; 3) Crear una página funcional... muy funcional.
-Tener suficientes conocimientos para aplicar por el examen de cloud computing
+**Meta Final**: 1) Tener conocimientos de Front-End (Fundamental HTML, CSS y JS); 2) Crear una aplicación web; 3) Crear una página funcional... muy funcional.
+Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner de AWS
 
-**Ideas:** Ninguna por los momentos
+**Ideas:** Ninguna por los momentos = ubicada en el siguiente directorio [Aquí](www.google.com)
 
 **Links**
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [SoloLearn](https://www.sololearn.com/)
-3. [Edabit](https://edabit.com/challenges)
-3. AWS 
+3. [W3Schools](https://www.w3schools.com/)
+4. [Edabit](https://edabit.com/challenges)
+5. AWS 
 
 [GitHub](https://github.com/rich1n/100-days-rich1n)
 

@@ -28,11 +28,11 @@ Tener suficientes conocimientos para aplicar por el examen de cloud computing
 ### Dia 4, 5, 6, 7: Noviembre 22-25: AWS Practitioner
 
 ### Dia 8,9, 10: Noviembre 26-28: LAMP Stack
-
+ing
 ### Dia 11: Noviembre 29: LAMP Stack
 
-### Dia 12: Noviembre 30:
+### Dia 12: Noviembre 30: WordPress fixing + PHP
 
-### Dia 13: Diciembre 1: 
+### Dia 13: Diciembre 1: PHP code issue fixing
 
 ### Dia 14: Diciembre 2: 

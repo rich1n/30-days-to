@@ -27,4 +27,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Dia 11: Noviembre 29: LAMP Stack
 ### Dia 12: Noviembre 30: WordPress fixing + PHP
 ### Dia 13: Diciembre 1: PHP code issue fixing
-### Dia 14: Diciembre 2: 
+### Dia 14: Diciembre 2: HTML + CSS Tutorial

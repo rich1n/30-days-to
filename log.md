@@ -14,7 +14,7 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 2. [SoloLearn](https://www.sololearn.com/)
 3. [W3Schools](https://www.w3schools.com/)
 4. [Edabit](https://edabit.com/challenges)
-5. AWS 
+5. [AWS](https://www.aws.training/Details/eLearning?id=60697)
 
 [GitHub](https://github.com/rich1n/100-days-rich1n)
 
@@ -29,3 +29,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Dia 13: Diciembre 1: PHP code issue fixing
 ### Dia 14: Diciembre 2: HTML + CSS Tutorial
 ### Dia 15, 16, 17: Diciembre 3-5: LAMP + WP
+### Dia 16: Dic. 6: AWS Cloud Practitioner

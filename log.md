@@ -32,4 +32,5 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Dia 16: Dic. 6: AWS Cloud Practitioner
 ### Día 17: Dic. 7: HTML + CCS
 ### Día 18, 19: Dic. 8 y 9: AWS Cloud Practiotioner
-### Día 19: Dic. 10: AWS Cloud Practitioner
+### Día 19, 20: Dic. 10 y 11: AWS Cloud Practitioner
+### Día 20: Dic 12: Virtual Machines + Internet

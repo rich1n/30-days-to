@@ -36,3 +36,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 20: Dic 12: Virtual Machines + Internet
 ### Día 21, 22: Dic 13 y 14: GitHub + Linux
 ### Día 23: Dic 15: Linux
+### Día 24 y 25: Dic 16 y 17: AWS + NodeJs + npm

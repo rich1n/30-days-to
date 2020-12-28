@@ -40,3 +40,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 26 y 27: Dic 18 y 19: AWS + NodeJs + WP
 ### Día 28-33: Dic 20-25: AWS Cloud Practitioner
 ### Día 34: Dic 26: Apache + Linux Server
+### Día 35: Dic 27: Apache + Bootstrap

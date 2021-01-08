@@ -44,3 +44,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 36-38: Dic 28-30: Apache + GitHub
 
 ### Día 1-4: Ene 2-5: Learning Python Again
+### Día 5-7: Ene 6-8: Python + NodeJs

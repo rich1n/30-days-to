@@ -48,4 +48,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 8-9: Ene 9-10: Python by SoloLearn
 ### Día 10: Ene 11: PHP
 ### Día 11: Ene 12: Python by SoloLearn
-### Día 12: Ene 13: Python +
+### Día 12: Ene 13: Python + GitHub

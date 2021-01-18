@@ -15,8 +15,20 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 3. [W3Schools](https://www.w3schools.com/)
 4. [Edabit](https://edabit.com/challenges)
 5. [AWS](https://www.aws.training/Details/eLearning?id=60697)
-
+6. [Odin Project](https://www.theodinproject.com/paths)
 [GitHub](https://github.com/rich1n/100-days-rich1n)
+
+
+### Model Log
+
+### Day 1: Jan 4th, Wednesday
+
+**Today's Progress**: I've completed the JS calculator
+
+**Thoughts**: Getting the funciton to replace an answer value instead of appending took a while. The decimal problems have been solved crudely. 
+
+**Link(s) to work**
+1. [JS-Calculator](https://github.com/ClimbinSheep/Projects/commit/b20a11dbab1dffe3b663a369e5adbaab6c815ad6)
 
 
 ### Dia 1: Noviembre 19: LAMP Stack
@@ -51,3 +63,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 12: Ene 13: Python + GitHub
 ### Día 13: Ene 14: Python
 ### Día 14: Ene 15: Python & Machine Learning
+### Día 15-16: Ene 16-17: Python Practices

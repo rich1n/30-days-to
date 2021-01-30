@@ -44,3 +44,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 14: Ene 15: Python & Machine Learning
 ### Día 15-16: Ene 16-17: Python Practices
 ### Día 17-24: Ene 18-25: Python Practices + Git
+### Día 25-28: Ene 26-29: Python + Git + CMS

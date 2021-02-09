@@ -47,3 +47,4 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 25-28: Ene 26-29: Python + Git + CMS
 ### Día 29-34: Ene 29-Feb 3: Puro CMS WordPress
 ### Día 34-35: Feb 4-5: CMS WordPress + PHP
+### Día 36-37: Feb 6-7: Python Directories

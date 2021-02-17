@@ -50,3 +50,5 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 36-37: Feb 6-7: Python Directories
 ### Día 38: Feb 8: CSS at WordPress
 ### Día 39-45: Feb 9-14: WP + GatsbyJs + PHP + Git
+### Día 46: Feb 15: GatsbyJs
+### Día 47: Feb 16: Python + PHP + GatsbyJs

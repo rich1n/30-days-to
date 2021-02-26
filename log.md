@@ -54,4 +54,7 @@ Tener suficientes conocimientos para aplicar por el examen de Cloud Practitioner
 ### Día 47: Feb 16: Python + PHP + GatsbyJs
 ### Día 48: Feb 17: Python + GatsbyJs
 ### Día 49: Feb 18: Python + expressJs
-### Día 50: Feb 19: 
+### Día 50: Feb 19: Svelte
+### Dia 51: Feb 20-22: ParrotOs
+### Día 52: Feb 23-24: Linux Terminal
+### Día 53: Feb 25: Linux Terminal

@@ -11,18 +11,30 @@
   [         ]
 
 **Links**
-### Python
+### React
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [SoloLearn](https://www.sololearn.com/learning/1073)
 3. [W3Schools](https://www.w3schools.com/python/default.asp)
+4. [FaztWeb](https://www.faztweb.com/cursos/reactjs/1)
 
 
 ## Log
 
 ### 15-03:
 Mar 15, Lunes
-**Today's Progress**: Implementar primera parte de sitio web Abacusv1.1 con un mapa API.
-**Thoughts**: Crear la app web abacusproject
-**Link(s) to** [sitio](https://rich1n.github.io/abacus/index.html)
+**Progress**: Implementar primera parte de sitio web Abacusv1.1 con un mapa API.
+**Ideas**: Crear la app web abacusproject
+**Links** [Sitio](https://rich1n.github.io/abacus/index.html)
 
+Mar 16,17, Martes, Miércoles
+**Ideas**: Repaso de aprendizaje en React; conocimiento del entorno de programación en React
+**Thoughts**: Chequear la Api de Leaflet para geolocalización
 
+Mar 18, Jueves
+**Progress**: Implementar y crear página de React en GH-Pages (github)
+**Ideas**: [Fazt Youtube](https://www.youtube.com/watch?v=M6hBd3Lomvw&feature=emb_title)
+**Links**: [Repo Github React-Site](https://github.com/rich1n/react-site) | [Sitio en React](https://rich1n.github.io/react-site/)
+
+Mar 19, Viernes
+**Progreso**:
+**Ideas**:

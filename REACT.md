@@ -35,6 +35,7 @@ Mar 18, Jueves
 **Ideas**: [Fazt Youtube](https://www.youtube.com/watch?v=M6hBd3Lomvw&feature=emb_title)
 **Links**: [Repo Github React-Site](https://github.com/rich1n/react-site) | [Sitio en React](https://rich1n.github.io/react-site/)
 
-Mar 19, Viernes
-**Progreso**:
-**Ideas**:
+Mar 19,20 Viernes, Sábado
+**Progreso**: ReactJs Curso Práctico
+**Ideas**: Desde Cero
+**Links**: [Curso ReactJs Fazt 3:16:04](https://www.youtube.com/watch?v=zIY87vU33aA)

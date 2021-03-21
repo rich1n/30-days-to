@@ -21,21 +21,21 @@
 ## Log
 
 ### 15-03:
-Mar 15, Lunes
-**Progress**: Implementar primera parte de sitio web Abacusv1.1 con un mapa API.
-**Ideas**: Crear la app web abacusproject
-**Links** [Sitio](https://rich1n.github.io/abacus/index.html)
+Mar 15, Lunes<br>
+**Progress**: Implementar primera parte de sitio web Abacusv1.1 con un mapa API.<br>
+**Ideas**: Crear la app web abacusproject<br>
+**Links** [Sitio](https://rich1n.github.io/abacus/index.html)<br>
 
-Mar 16,17, Martes, Miércoles
-**Ideas**: Repaso de aprendizaje en React; conocimiento del entorno de programación en React
-**Thoughts**: Chequear la Api de Leaflet para geolocalización
+Mar 16,17, Martes, Miércoles<br>
+**Ideas**: Repaso de aprendizaje en React; conocimiento del entorno de programación en React<br>
+**Thoughts**: Chequear la Api de Leaflet para geolocalización<br>
 
-Mar 18, Jueves
-**Progress**: Implementar y crear página de React en GH-Pages (github)
-**Ideas**: [Fazt Youtube](https://www.youtube.com/watch?v=M6hBd3Lomvw&feature=emb_title)
-**Links**: [Repo Github React-Site](https://github.com/rich1n/react-site) | [Sitio en React](https://rich1n.github.io/react-site/)
+Mar 18, Jueves<br>
+**Progress**: Implementar y crear página de React en GH-Pages (github)<br>
+**Ideas**: [Fazt Youtube](https://www.youtube.com/watch?v=M6hBd3Lomvw&feature=emb_title)<br>
+**Links**: [Repo Github React-Site](https://github.com/rich1n/react-site) | [Sitio en React](https://rich1n.github.io/react-site/)<br>
 
-Mar 19,20 Viernes, Sábado
-**Progreso**: ReactJs Curso Práctico
-**Ideas**: Desde Cero
-**Links**: [Curso ReactJs Fazt 3:16:04](https://www.youtube.com/watch?v=zIY87vU33aA)
+Mar 19,20 Viernes, Sábado<br>
+**Progreso**: ReactJs Curso Práctico<br>
+**Ideas**: Desde Cero<br>
+**Links**: [Curso ReactJs Fazt 3:16:04](https://www.youtube.com/watch?v=zIY87vU33aA)<br>

@@ -39,3 +39,8 @@ Mar 19,20 Viernes, Sábado<br>
 **Progreso**: ReactJs Curso Práctico<br>
 **Ideas**: Desde Cero<br>
 **Links**: [Curso ReactJs Fazt 3:16:04](https://www.youtube.com/watch?v=zIY87vU33aA)<br>
+
+Mar 21, Domingo<br>
+**Progreso**: ReactJs Curso Práctico<br>
+**Ideas**: Componentes y Props<br>
+

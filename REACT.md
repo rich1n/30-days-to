@@ -44,3 +44,7 @@ Mar 21, Domingo<br>
 **Progreso**: ReactJs Curso Práctico<br>
 **Ideas**: Componentes y Props<br>
 
+Mar 22, Lunes<br>
+**Progreso**: ReactJs Curso SoloLearn<br>
+**Ideas**: React + Redux<br>
+**Links**: [Curso ReactJs SoloLearn](https://www.sololearn.com/learning/1097)<br>

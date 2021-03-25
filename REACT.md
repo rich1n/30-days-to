@@ -48,3 +48,8 @@ Mar 22, Lunes<br>
 **Progreso**: ReactJs Curso SoloLearn<br>
 **Ideas**: React + Redux<br>
 **Links**: [Curso ReactJs SoloLearn](https://www.sololearn.com/learning/1097)<br>
+
+Mar 23, 24, Martes, Miércoles<br>
+**Progreso**: ReactJs Curso SoloLearn: Props +Class + State<br>
+
+Mar 25, Jueves

@@ -52,4 +52,7 @@ Mar 22, Lunes<br>
 Mar 23, 24, Martes, Miércoles<br>
 **Progreso**: ReactJs Curso SoloLearn: Props +Class + State<br>
 
-Mar 25, Jueves
+===================
+
+Abr 7, Miércoles
+Progreso**: Retomar [sitio](https://rich1n.com/react-site/) sin lograr los cambios...

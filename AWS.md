@@ -23,5 +23,5 @@
 
 #### Día 2: Abr 9, Viernes
 **Progreso**:<br>
-**Ideas**: <br>
+**Ideas**: [S3 Cheat Sheet](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=3519s)<br>
 **Links** [Siguiente: VPC + NACL](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=3926s)

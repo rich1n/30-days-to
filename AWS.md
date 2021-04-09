@@ -24,4 +24,4 @@
 #### Día 2: Abr 9, Viernes
 **Progreso**:<br>
 **Ideas**: <br>
-**Links** 
+**Links** [Siguiente: VPC + NACL](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=3926s)

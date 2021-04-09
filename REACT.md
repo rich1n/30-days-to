@@ -56,3 +56,8 @@ Mar 23, 24, Martes, Miércoles<br>
 
 Abr 7, Miércoles
 Progreso**: Retomar [sitio](https://rich1n.com/react-site/) sin lograr los cambios...
+
+Abr 8, Jueves
+Progreso**: [abacus v1.2](https://rich1n.com/abacus/index.html) sin lograr los cambios...
+[React-Leaflet](https://react-leaflet.js.org/docs/start-introduction)
+

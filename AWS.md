@@ -33,3 +33,4 @@
 #### Día 12: Abr 22<br>
 **Progreso**: IAM + Cognito + Rekognition
 #### Día 13: Abr 23<br>
+[Auto Scaling Group](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=15904s)

@@ -23,3 +23,15 @@ Lunes<br>
 **Progress**: Iniciación a Solidity y los Smart Contracts<br>
 **Ideas**: <br>
 **Links** [Sitio](https://github.com/rich1n/30-days-to/blockchain.md)<br>
+
+### 11/18-05:
+Lunes<br>
+**Progress**: Documentación de Solidity y los Smart Contracts<br>
+**Ideas**: <br>
+**Links** [Sitio](https://github.com/rich1n/30-days-to/blockchain.md)<br>
+
+### 19/20-05:
+Lunes<br>
+**Progress**: Aprendiendo Solidity mediante CryptoZombies<br>
+**Ideas**: <br>
+**Links** [CryptoZombies](https://cryptozombies.io/en/course)<br>

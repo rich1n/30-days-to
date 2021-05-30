@@ -35,3 +35,9 @@ Lunes<br>
 **Progress**: Aprendiendo Solidity mediante CryptoZombies<br>
 **Ideas**: <br>
 **Links** [CryptoZombies](https://cryptozombies.io/en/course)<br>
+
+### 21/29-05
+**Progress**: Aprendiendo Solidity mediante CryptoZombies Listo 3 cursos<br>
+**Ideas**: <br>
+**Links** [CryptoZombies](https://cryptozombies.io/en/course)<br>
+

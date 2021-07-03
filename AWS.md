@@ -14,7 +14,10 @@
 1. [AWS](https://www.aws.training/Details/Curriculum?id=20685)
 2. [Youtube](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=1918s)
 3. [Guía AWS Architect](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
-## Log
+4. [Youtube Exam](https://www.youtube.com/watch?v=W2O6Ll2j19M&list=PLb979o8dCGdvuKjCsouzAZDeoF1HGlLDD&index=8&t=64s)
+5. [Youtube ExamPro AWS Architect](https://www.youtube.com/playlist?list=PLBfufR7vyJJ6FhBhJJSaMkI-m2wyoPy-G)
+6. [Youtube TechTalks AWS Cloud Practitioner](https://www.youtube.com/watch?v=dUXZUAj_fCE&list=PLb979o8dCGdsut5u6ZPAJ-ko78F9D1m1z&index=6&t=5209s)
+
 
 #### Día 1: Abr 8<br>
 **Progreso**: Todo sobre S3<br>

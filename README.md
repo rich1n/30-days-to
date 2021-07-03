@@ -1,20 +1,15 @@
 # 30 días de hábitos
 
-### ~~Me uní el reto #100DaysOfCode~~
-
-## ~~¿Quieres unirte también?~~ ¡No te unas! ¡No pienses mucho y actua!
-
 La dinámica es crear una ruta de aprendizaje en donde puedas dedicar 30 días para aprender o trabajar en algo para mejorar tus habilidades; puedes combinar dos hábitos al mismo tiempo; la idea es que en 30 días te vuelvas más experto en lo que quieres.
 
 MI OBJETIVO<br>
 Mejorar mis habilidades de HTML, CSS y JAVASCRIPT<br>
+Aprender Boostrap y Tailwind
 Mejorar mis habilidades de [ReactJs](https://github.com/rich1n/30-days-of/blob/master/REACT.md)<br>
-Mejorar mis habilidades de NodeJs<br>
-Mejorar mis habilidades de SQL<br>
-Mejorar mis habilidades de MongoDB<br>
+Mejorar mis habilidades de [GatsbyJs](https://www.gatsbyjs.org/)
+Mejorar mis habilidades de BackEnd - SQL - MongoDB - GraphQL<br>
 [Aprender sobre AWS Cloud Architect](https://github.com/rich1n/30-days-of/blob/master/AWS.md)<br>
-Aprender sobre Pentesting<br>
-
+Aprender sobre [Ethereum y Blockchain](https://ethereum.org/)<br>
 
 ~~Reglas para el Challenge de los 100 Días de Código~~ NO HAY REGLAS: solo cumplir tu objetivo diario; no pierdas el tiempo en Twitter tratando de tuitear esto; solo haz el trabajo y aprende.
 

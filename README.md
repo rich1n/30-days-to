@@ -1,20 +1,16 @@
 # 30 días de hábitos
 
-La dinámica es crear una ruta de aprendizaje en donde puedas dedicar 30 días para aprender o trabajar en algo para mejorar tus habilidades; puedes combinar dos hábitos al mismo tiempo; la idea es que en 30 días te vuelvas más experto en lo que quieres.
+**Crear una ruta de aprendizaje en donde puedas dedicar 30 días para aprender o trabajar en algo para mejorar las habilidades; se puede combinar dos hábitos al mismo tiempo; la idea es convertirse en un experto en 30 días.**
 
 MI OBJETIVO<br>
-Mejorar mis habilidades de HTML, CSS y JAVASCRIPT<br>
-Aprender Boostrap y Tailwind
-Mejorar mis habilidades de [ReactJs](https://github.com/rich1n/30-days-of/blob/master/REACT.md)<br>
-Mejorar mis habilidades de [GatsbyJs](https://www.gatsbyjs.org/)
-Mejorar mis habilidades de BackEnd - SQL - MongoDB - GraphQL<br>
-[Aprender sobre AWS Cloud Architect](https://github.com/rich1n/30-days-of/blob/master/AWS.md)<br>
+Mejorar mis habilidades de [NextJs](https://github.com/vercel)<br>
+Mejorar mis habilidades de [GatsbyJs](https://www.gatsbyjs.org/)<br>
+Mejorar mis habilidades en [Boostrap](https://github.com/twbs) y [Tailwind](https://github.com/tailwindlabs)<br>
+Mejorar mis habilidades de BackEnd con herramientas online: SQL y [MongoDB](https://github.com/mongodb)<br>
+Mejorar mis habilidades en marketing digital<br>
 Aprender sobre [Ethereum y Blockchain](https://ethereum.org/)<br>
-
-~~Reglas para el Challenge de los 100 Días de Código~~ NO HAY REGLAS: solo cumplir tu objetivo diario; no pierdas el tiempo en Twitter tratando de tuitear esto; solo haz el trabajo y aprende.
-
-## Objetivo Principal
-### *Aprender, programar o perfeccionar, por lo menos una hora al día en los próximos 30 días, alguna tecnología o Stack; luego de finalizar, podrás comenzar otro reto con otra tecnología intercalar entre dos retos con una diferencia de 15 días el uno con el otro.*
+[Remix](https://github.com/remix-run) o [Vite](https://github.com/vitejs)
 
 #### Fecha de Inicio
-15 de marzo de 2021
+~15 de marzo de 2021~
+dos años después = 8 de abril de 2023
